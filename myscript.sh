@@ -5,3 +5,4 @@ mkdir dirB
 touch test.txt
 ls -la
 echo "This command is successful"
+shell-scripts
